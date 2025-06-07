@@ -1,4 +1,4 @@
-module github.com/rabbitmq/amqp091-go
+module github.com/alvinyan-bond/amqp091-go
 
 go 1.20
 
